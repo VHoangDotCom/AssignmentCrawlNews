@@ -1,0 +1,51 @@
+﻿@model IEnumerable<CrawlNews.Models.Sourse>
+
+
+<!-- Modal Header -->
+<div class="modal-header">
+    <h4 class="modal-title">Preview</h4>
+    <button type="button" class="close" data-dismiss="modal">&times;</button>
+</div>
+
+<!-- Modal body -->
+<div class="modal-body" style="background: white">
+    <div id="resultId">
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.ActionLink("Url", "Index", new { sortOrder = ViewBag.UrlSortParm, currentFilter = ViewBag.CurrentFilter })
+                </th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Url)
+                    </td>
+                </tr>
+            }
+        </table>
+
+    </div>
+</div>
+
+<!-- Modal footer -->
+<div class="modal-footer">
+    <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+</div>
+
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        $('#exampleModal').on('.exampleModal', function () {
+            $('#exampleModal').trigger('focus')
+        })
+    </script>
+}

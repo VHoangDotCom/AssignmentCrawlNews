@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link href="~/Content/demo.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/dashboard.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="wrapper ">
+        <div class="sidebar" data-color="white" data-active-color="danger">
+            <div class="logo">
+
+                <a href="#" class="simple-text logo-normal" style="font-size:24px; font-weight:600;padding-left:10px;">
+                    Assignment
+                </a>
+            </div>
+            <div class="sidebar-wrapper">
+                <ul class="nav">
+                    <li>
+                        <a>
+                            <i class="fa-solid fa-house"></i>
+                            <p>@Html.ActionLink("Home", "Index", "Home")</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <i class="fa-solid fa-address-card"></i>
+                            <p>@Html.ActionLink("About", "About", "Home")</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <i class="fa-brands fa-sourcetree"></i>
+                            <p>@Html.ActionLink("Category", "Index", "Categories")</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a style="text-decoration: none!important; cursor: pointer">
+                            <i class="fa-solid fa-newspaper"></i>
+                            <p>@Html.ActionLink("Article", "Index", "Articles")</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <i class="fa-brands fa-sourcetree"></i>
+                            <p>@Html.ActionLink("Sourses", "Index", "Sourses")</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a>
+                            <i class="fa-brands fa-sourcetree"></i>
+                            <p>@Html.ActionLink("Preview Link", "PreviewLink", "Sourses")</p>
+                        </a>
+                    </li>
+
+
+                </ul>
+            </div>
+        </div>
+        <div class="main-panel">
+
+            <div class="content">
+                @RenderBody()
+            </div>
+            <footer class="footer footer-black  footer-white ">
+                <div class="container-fluid">
+                    <div class="row">
+                        <nav class="footer-nav">
+                            <ul>
+                                <li><a href="https://www.creative-tim.com" target="_blank">Creative Tim</a></li>
+                                <li><a href="https://www.creative-tim.com/blog" target="_blank">Blog</a></li>
+                                <li><a href="https://www.creative-tim.com/license" target="_blank">Licenses</a></li>
+                            </ul>
+                        </nav>
+                        <div class="credits ml-auto">
+                            <span class="copyright">
+                                ©
+                                <script>
+                                    document.write(new Date().getFullYear())
+                                </script>, made with <i class="fa fa-heart heart"></i> by Creative Tim
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="@Url.Content("~/Scripts/core/poper.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/plugins/perfect-scrollbar.jquery.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/plugins/chartjs.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/plugins/bootstrap-notify.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/demo.js")"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

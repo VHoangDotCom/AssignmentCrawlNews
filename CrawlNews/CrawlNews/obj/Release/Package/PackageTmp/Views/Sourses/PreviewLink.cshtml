@@ -1,0 +1,208 @@
+﻿@model CrawlNews.Models.Sourse
+
+
+<h2>CheckSource</h2>
+
+@using (Ajax.BeginForm("CheckLink", "Sourses",
+new AjaxOptions
+{
+    InsertionMode = InsertionMode.Replace,
+    HttpMethod = "POST",
+    OnFailure = "searchFailed",
+    LoadingElementId = "ajax-loader",
+    UpdateTargetId = "myModal",
+}))
+{
+    @Html.AntiForgeryToken()
+    <p>
+        <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+            Check Url
+        </a>
+
+    </p>
+    <div class="collapse" id="collapseExample">
+        <div class="card card-body">
+            <div class="form-horizontal">
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Url, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Url, new { htmlAttributes = new { @class = "form-control url" } })
+                        @Html.ValidationMessageFor(model => model.Url, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SelectorSubUrl, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.SelectorSubUrl, new { htmlAttributes = new { @class = "form-control selectorUrl" } })
+                        @Html.ValidationMessageFor(model => model.SelectorSubUrl, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+
+                    <div class="col-md-2 col-lg-offset-2">
+                        <input type="submit" class="btn btn-primary" data-toggle="modal" data-target="#myModal" value="Preview" />
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+}
+
+<div class="modal col-md-8 col-lg-offset-2" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+
+
+        </div>
+    </div>
+</div>
+
+
+@using (Ajax.BeginForm("Preview", "Sourses",
+new AjaxOptions
+{
+    InsertionMode = InsertionMode.Replace,
+    HttpMethod = "POST",
+    OnFailure = "searchFailed",
+    LoadingElementId = "ajax-loader",
+    UpdateTargetId = "myModal1",
+}))
+{
+    @Html.AntiForgeryToken()
+    <p>
+        <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample1" role="button" aria-expanded="false" aria-controls="collapseExample">
+            Check Selector
+        </a>
+
+    </p>
+    <div class="collapse" id="collapseExample1">
+        <div class="card card-body">
+            <div class="form-horizontal" style="margin-top: 10px">
+
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SubUrl, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.SubUrl, new { htmlAttributes = new { @class = "form-control subUrl" } })
+                        @Html.ValidationMessageFor(model => model.SubUrl, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SelectorTitle, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.SelectorTitle, new { htmlAttributes = new { @class = "form-control selectorTitle" } })
+                        @Html.ValidationMessageFor(model => model.SelectorTitle, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SelectorImage, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.SelectorImage, new { htmlAttributes = new { @class = "form-control selImage" } })
+                        @Html.ValidationMessageFor(model => model.SelectorImage, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SelectorDescription, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.SelectorDescription, new { htmlAttributes = new { @class = "form-control selDesc" } })
+                        @Html.ValidationMessageFor(model => model.SelectorDescription, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SelectorContent, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.SelectorContent, new { htmlAttributes = new { @class = "form-control selCo" } })
+                        @Html.ValidationMessageFor(model => model.SelectorContent, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Category, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        <select id="ddlColors" name="category" runat="server">
+                            <option value=-1>Chọn danh mục</option>
+                            @foreach (var category in ViewBag.ListCategory)
+                            {
+                                <option value=@category.Id>@category.Name</option>
+                            }
+
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-group">
+
+                    <div class="col-md-2 col-lg-offset-2">
+                        <input type="submit" class="btn btn-primary" data-toggle="modal" data-target="#myModal1" value="Preview" />
+
+                    </div>
+                    <div class="col-md-2 col-lg-offset-2">
+                        <input type="submit" class="btn btn-primary" onclick="saveSourse()" value="Save" />
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+}
+<div class="modal col-md-8 col-lg-offset-2" id="myModal1">
+    <div class="modal-dialog ">
+        <div class="modal-content">
+
+
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        $('#exampleModal').on('.exampleModal', function () {
+            $('#exampleModal').trigger('focus')
+        })
+        function saveSourse() {
+          
+        var data = {
+          
+            Url: $('.url').val(),
+            SelectorSubUrl: $('.selectorUrl').val(),
+            SubUrl: $('.subUrl').val(),
+            SelectorTitle: $('.selectorTitle').val(),
+            SelectorImage: $('.selImage').val(),
+            SelectorContent: $('.selCo').val(),
+            SelectorDescription: $('.selDesc').val(),
+            @*Category: $('.category').val(),*@
+        }
+        console.log(JSON.stringify(data));
+        $.ajax({
+            url: "/Sourses/CreateSourse",
+            dataType: "json",
+            type: "POST",
+            contentType: "application/json; charset=utf-8",
+            data: JSON.stringify(data),
+            async: true,
+            processData: false,
+            cache: false,
+            success: function (data) {
+                alert(data);
+            },
+            error: function (xhr) {
+                alert(JSON.stringify(xhr));
+            }
+        });
+        }
+    </script>
+}
+

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\epc\Ap-Sem3\Enterprise Application Programming\AssignmentCrawlNews\Client-main\Client-main\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\epc\Ap-Sem3\Enterprise Application Programming\AssignmentCrawlNews\Client-main\Client-main\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\epc\Ap-Sem3\Enterprise Application Programming\AssignmentCrawlNews\Client-main\Client-main\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

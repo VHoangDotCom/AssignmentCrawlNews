@@ -1,0 +1,74 @@
+﻿@model CrawlNews.Models.Sourse
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Sourse</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Url)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Url)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SelectorSubUrl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SelectorSubUrl)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SelectorTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SelectorTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SelectorImage)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SelectorImage)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SelectorDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SelectorDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SelectorContent)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SelectorContent)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CategoryId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

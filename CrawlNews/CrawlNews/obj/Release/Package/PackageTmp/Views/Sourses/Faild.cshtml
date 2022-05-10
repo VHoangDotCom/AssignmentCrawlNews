@@ -1,0 +1,39 @@
+﻿@model IEnumerable<CrawlNews.Models.Sourse>
+
+
+<div class="modal-container" style="background: aliceblue">
+    <!-- Modal Header -->
+    <div class="modal-header">
+        <h4 class="modal-title">Preview</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+    </div>
+
+    <!-- Modal body -->
+    <div class="modal-body">
+        <div id="resultId">
+            <h2>Lỗi</h2>
+
+        </div>
+    </div>
+
+    <!-- Modal footer -->
+    <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+    </div>
+
+</div>
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        $('#exampleModal').on('.exampleModal', function () {
+            $('#exampleModal').trigger('focus')
+        })
+    </script>
+}

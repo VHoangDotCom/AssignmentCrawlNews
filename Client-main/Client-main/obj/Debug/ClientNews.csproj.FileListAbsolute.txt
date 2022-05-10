@@ -1,0 +1,315 @@
+D:\FPTAPTECH\SEM3\ClientNews\bin\ClientNews.dll.config
+D:\FPTAPTECH\SEM3\ClientNews\bin\ClientNews.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\ClientNews.pdb
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\csc.exe
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\csc.exe.config
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\csc.rsp
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\csi.exe
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\csi.exe.config
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\csi.rsp
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.AppContext.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Collections.Immutable.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Console.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Globalization.Calendars.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.IO.Compression.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.IO.FileSystem.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Net.Http.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Net.Sockets.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Reflection.Metadata.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.ValueTuple.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Xml.XPath.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\vbc.exe
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\vbc.exe.config
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\vbc.rsp
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\VBCSCompiler.exe
+D:\FPTAPTECH\SEM3\ClientNews\bin\roslyn\VBCSCompiler.exe.config
+D:\FPTAPTECH\SEM3\ClientNews\bin\Antlr3.Runtime.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\EntityFramework.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\EntityFramework.SqlServer.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\Microsoft.Web.Infrastructure.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\Newtonsoft.Json.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.Helpers.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.Mvc.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.Optimization.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.Razor.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.WebPages.Deployment.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.WebPages.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.WebPages.Razor.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\WebGrease.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\EntityFramework.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\EntityFramework.SqlServer.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.Helpers.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.Mvc.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.Optimization.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.Razor.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.WebPages.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.WebPages.Deployment.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Web.WebPages.Razor.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\Newtonsoft.Json.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\Antlr3.Runtime.pdb
+D:\FPTAPTECH\SEM3\ClientNews\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FPTAPTECH\SEM3\ClientNews\obj\Debug\ClientNews.csproj.CoreCompileInputs.cache
+D:\FPTAPTECH\SEM3\ClientNews\obj\Debug\ClientNews.csproj.CopyComplete
+D:\FPTAPTECH\SEM3\ClientNews\obj\Debug\ClientNews.dll
+D:\FPTAPTECH\SEM3\ClientNews\obj\Debug\ClientNews.pdb
+D:\FPTAPTECH\SEM3\ClientNews\bin\PagedList.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\PagedList.Mvc.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\PagedList.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\PagedList.Mvc.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\Elasticsearch.Net.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\Nest.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Buffers.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Diagnostics.DiagnosticSource.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Memory.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Numerics.Vectors.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\FPTAPTECH\SEM3\ClientNews\bin\Elasticsearch.Net.pdb
+D:\FPTAPTECH\SEM3\ClientNews\bin\Elasticsearch.Net.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\Nest.pdb
+D:\FPTAPTECH\SEM3\ClientNews\bin\Nest.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Buffers.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Diagnostics.DiagnosticSource.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Memory.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Numerics.Vectors.xml
+D:\FPTAPTECH\SEM3\ClientNews\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\FPTAPTECH\SEM3\ClientNews\obj\Debug\ClientNews.Migrations.hbg.resources
+D:\FPTAPTECH\SEM3\ClientNews\obj\Debug\ClientNews.csproj.GenerateResource.cache
+D:\FPTAPTECH\SEM3\ClientNews\obj\Debug\ClientNews.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\ClientNews.dll.config
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\ClientNews.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\ClientNews.pdb
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\Elasticsearch.Net.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\Nest.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\PagedList.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Buffers.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Memory.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\WebGrease.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\Elasticsearch.Net.pdb
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\Elasticsearch.Net.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\Nest.pdb
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\Nest.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\PagedList.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Buffers.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Memory.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\Client-main\Client-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Client-main\Client-main\obj\Debug\ClientNews.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Client-main\Client-main\obj\Debug\ClientNews.Migrations.hbg.resources
+C:\Users\Admin\Downloads\Client-main\Client-main\obj\Debug\ClientNews.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Client-main\Client-main\obj\Debug\ClientNews.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Client-main\Client-main\obj\Debug\ClientNews.csproj.CopyComplete
+C:\Users\Admin\Downloads\Client-main\Client-main\obj\Debug\ClientNews.dll
+C:\Users\Admin\Downloads\Client-main\Client-main\obj\Debug\ClientNews.pdb
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\ClientNews.dll.config
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\ClientNews.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\ClientNews.pdb
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\csc.exe
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\csc.exe.config
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\csc.rsp
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\csi.exe
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\csi.exe.config
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\csi.rsp
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\Microsoft.Managed.Core.targets
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.AppContext.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Collections.Immutable.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Console.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Globalization.Calendars.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.IO.Compression.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.IO.FileSystem.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Net.Http.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Net.Sockets.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Reflection.Metadata.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.ValueTuple.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Xml.XmlDocument.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Xml.XPath.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\vbc.exe
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\vbc.exe.config
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\vbc.rsp
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\VBCSCompiler.exe
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\roslyn\VBCSCompiler.exe.config
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\Antlr3.Runtime.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\Elasticsearch.Net.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\EntityFramework.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\EntityFramework.SqlServer.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\Microsoft.Web.Infrastructure.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\Nest.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\Newtonsoft.Json.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\PagedList.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\PagedList.Mvc.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Buffers.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Diagnostics.DiagnosticSource.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Memory.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Numerics.Vectors.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.Helpers.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.Mvc.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.Optimization.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.Razor.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.WebPages.Deployment.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.WebPages.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.WebPages.Razor.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\WebGrease.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\Elasticsearch.Net.pdb
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\Elasticsearch.Net.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\EntityFramework.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\EntityFramework.SqlServer.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\Nest.pdb
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\Nest.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\PagedList.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\PagedList.Mvc.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Buffers.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Diagnostics.DiagnosticSource.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Memory.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Numerics.Vectors.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.Helpers.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.Mvc.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.Optimization.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.Razor.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.WebPages.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.WebPages.Deployment.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\System.Web.WebPages.Razor.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\Newtonsoft.Json.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\Antlr3.Runtime.pdb
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\obj\Debug\ClientNews.csproj.AssemblyReference.cache
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\obj\Debug\ClientNews.Migrations.hbg.resources
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\obj\Debug\ClientNews.csproj.GenerateResource.cache
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\obj\Debug\ClientNews.csproj.CoreCompileInputs.cache
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\obj\Debug\ClientNews.csproj.CopyComplete
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\obj\Debug\ClientNews.dll
+D:\epc\Ap-Sem3\Enterprise Application Programming\EAD Projects\Client-main\Client-main\obj\Debug\ClientNews.pdb
